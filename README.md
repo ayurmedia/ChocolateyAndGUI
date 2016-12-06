@@ -3,7 +3,8 @@ Simplify Installation of Chocolate and GUI
 
 You should run the .exe file, the .cmd is just the input for compiling the exe. 
 
-Download finished ninary: 
+Download finished binary: 
+https://github.com/ayurmedia/ChocolateyAndGUI/blob/master/installChocolateyAndGUI.exe?raw=true
 
 # Tool Used: 
 http://www.f2ko.de/de/b2e.php
