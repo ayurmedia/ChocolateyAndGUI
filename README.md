@@ -6,7 +6,7 @@ You should run the .exe file, the .cmd is just the input for compiling the exe.
 Download finished binary: 
 https://github.com/ayurmedia/ChocolateyAndGUI/blob/master/installChocolateyAndGUI.exe?raw=true
 
-On Windows 10 you might need to unlock the .exe after Download. 
+On Windows 10 you might need to unblock the .exe after Download. 
 
 ![Alt text](Exe-Properties-Security win10.png?raw=true "Security Settings")
 
