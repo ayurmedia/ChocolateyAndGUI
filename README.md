@@ -2,6 +2,8 @@
 Simplify Installation of Chocolate and GUI
 
 You should run the .exe file, the .cmd is just the input for compiling the exe. 
+(You could also run the .cmd, but then you need to run it with "rightclick - run as administrator" 
+which is already quite difficult for beginners. Priority of this idea is to simplify usage.)
 
 Download finished binary: 
 https://github.com/ayurmedia/ChocolateyAndGUI/blob/master/installChocolateyAndGUI.exe?raw=true
