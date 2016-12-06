@@ -7,7 +7,7 @@ Download finished binary:
 https://github.com/ayurmedia/ChocolateyAndGUI/blob/master/installChocolateyAndGUI.exe?raw=true
 
 On Windows 10 you might need to unlock the .exe after Download. 
-![Alt text](/relative/path/to/img.jpg?raw=true "Security Settings")
+![Alt text](Exe-Properties-Security win10.png?raw=true "Security Settings")
 
 # Tool Used: 
 http://www.f2ko.de/de/b2e.php
